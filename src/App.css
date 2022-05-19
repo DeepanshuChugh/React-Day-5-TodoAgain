@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+.listDiv{
+  display: flex;
+  /* flex-direction: column; */
+  border: 1px solid red;
+  margin-left: 40%;
+}
+
+
+.non{
+  text-decoration: line-through;
+  color: red;
+
+}
